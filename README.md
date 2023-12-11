@@ -15,7 +15,6 @@ The project is built with React.js and uses Tailwind CSS for responsive design. 
   <strong>📱Fully responsive design using Tailwind CSS was implemented.🌐</strong>
 </div>
 
-<hr />
 ## 📖 Prerequisites
 
 In order to run the project, we need node>=18 and npm>=10 installed on our development machines. [You can also check out our website online to explore more features](https://its-mohammad-js.github.io/Your-Currency/).🌐
