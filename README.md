@@ -1,6 +1,6 @@
 <h1>Your Currency App!</h1>
 
-<img src="/public/YouCurrency-Teaser.mp4" alt="teaser-gif"/>
+<img src="/public/logo/Desktop-logo.svg" alt="teaser-gif"/>
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
