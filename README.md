@@ -1,6 +1,8 @@
-<div style="background-color: black; display: flex; align-items: center">
-    <img src="/public/logo/Desktop-logo.svg" alt="teaser-gif"/>
-    <h1 style="color: green; font-size: 20px">Your Currency App</h1>
+<div align="center">
+  <br>
+  <img alt="Open Sauced" src="/public/desktop-vision.png" width="300px">
+  <h1>💲Your Currency App💲</h1>
+  <strong>Designed and developed using Tailwind CSS and React.js as well as Context API and Axios.</strong>
 </div>
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
