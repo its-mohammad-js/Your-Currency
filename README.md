@@ -17,7 +17,7 @@ The project is built with React.js and uses Tailwind CSS for responsive design. 
 
 ## 📖 Prerequisites
 
-In order to run the project, we need node>=18 and npm>=10 installed on our development machines. [You can also check out our website online to explore more features](https://its-mohammad-js.github.io/Your-Currency/).🌐
+In order to run the project, we need node>=18 and npm>=10 installed on our development machines. <strong>[You can also check out our website online to explore more features](https://its-mohammad-js.github.io/Your-Currency/).🌐</strong>
 
 ## 🖥️ Local development
 
