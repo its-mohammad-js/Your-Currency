@@ -2,7 +2,7 @@
   <br>
   <img alt="Open Sauced" src="/public/desktop-vision.png" width="300px">
   <h1>💲Your Currency App💲</h1>
-  <strong style="font-size: 20px;">Designed and developed using Tailwind CSS and React.js as well as Context API and Axios.</strong>
+  <strong style="font-size: 80px;">Designed and developed using Tailwind CSS and React.js as well as Context API and Axios.</strong>
 </div>
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
