@@ -9,7 +9,7 @@ function HomePage() {
       <HomePageHero />
       <CoinsRateSection />
       <UseCases />
-      <IntroduceDeveloperSection />
+{/*       <IntroduceDeveloperSection /> */}
     </>
   );
 }
